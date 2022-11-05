@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    }
+body {
+    background-color: rgb(137, 234, 234);
+    font-family: 'Times New Roman', Times, serif; 
+    }
+a   {
+        color:black;
+        font-size: large;
+    }
+a:hover {
+     background:rgb(70, 58, 201)   
+    }
